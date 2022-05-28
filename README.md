@@ -2,7 +2,7 @@
 A simple program in C (and SDL) that visualize Bubble sort algorithm.
 
 To compile this programm you have to pass the Makefile to the "MinGW-w64" 
-compiler using this command "mingw32-make -f MakeFile" in the same directory 
+compiler using this command "mingw32-make -f Makefile" in the same directory 
 of the Makefile.
 And then execute the Main.exe program.
 
